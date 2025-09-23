@@ -12,9 +12,9 @@ Temperature:
  * Service
    * [E61 Group Servicing](http://coffeetimex.wikidot.com/e61-group-servicing)
    * E61 Group Parts
-     * 1x C219900424 - Rocket E61 Complete Brew Valve (59.5mm)
-     * 1x C219900430 (R229905239) - E61 Complete Infusion Valve
-     * 1x C219903081 (R229905609) - E61 Manual Group Complete Drain Valve
+     * 1x R229905608 (C219900424 59.5mm) - Delivery Valve Group (Round pin | Overall length 55mm)
+     * 1x R229905239 (C219900430) - Infusion Valve (Triangular pin | Overall length 52.5mm)
+     * 1x R229905609 (C219903081) - Lower Drain Valve (Exhaust valve | Overall length 27mm)
      
      * 1x R229905238 - Cam Shaft
      * 2x C219900426 - Gasket Flat ø15.5x7.5x4mm EPDM
