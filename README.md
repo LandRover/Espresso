@@ -17,21 +17,25 @@ Temperature:
        * 1x R229905239 - Infusion Valve (Triangular pin | Overall length 52.5mm)
        * 1x R229905609 - Lower Drain Valve (Exhaust valve | Overall length 27mm)
      * Gaskets
-       * 2x C219900426 - Gasket Flat ø15.5x7.5x4mm EPDM
-       * 3x 2151136654 - Valve Gasket Ø 13x4x4 mm Viton
+       * 2x C219900426 - Gasket Flat EPDM (ø15.5x7.5x4mm)
+       * 3x 2151136654 - Valve Gasket Viton (ø13x4x4mm)
        * 1x C469900422 - Gasket (Piston O-ring 0128 Viton) (Ring thickness 3.20mm - internal ø20.50mm) Green/Red (OEM)
      * Teflon gaskets
-       * 1x C469900420 - Mushroom Filter
-       * 3x C469900421 - Mushroom & Cam Shaft & Cylinder
-       * 1x C469900783 - Drain Connector
+       * 1x C469900420 - Mushroom Filter - PTFE Flat Gasket (ø22x17x2mm)
+       * 3x C469900421 - Mushroom & Cam Shaft & Cylinder - Teflon Flat Gasket (ø35x30x2mm)
+       * 1x C469900783 - Drain Connector - Teflon Flat Gasket (ø26x21x2mm)
      * Springs
-       * 1x R219905890 - Delivery Spring
-       * 1x R219905890 - Infusion Spring
-       * 1x R299905958 - Lower Drain Spring
+       * 2x R219905890 - Delivery Spring & Infusion Spring (ø14x45mm)
+       * 1x R299905958 - Lower Drain Spring (ø14.5x33.5mm)
+       * 1x C219900427 - Lever Axis Spring (ø15x28mm)
+     * Mushroom
+       * 1x C229901133 - Stainless / Chromium-plated Upper Sleeve Mushroom (80mm)
      * 1x R229905238 - Cam Shaft (Overall length 87mm)
-     * 1x C619900554 - Jet Filter ø8.5x22mm
+     * 1x C619900554 - Jet Filter (ø8.5x22mm)
      * 1x C449900229 - Group Gasket 8mm (Cafelat E61 8.5mm Blue Silicone Group Gasket)
+     * 1x E&B LAB Nano Shower Screen E61200RNT
      * 1x Dow Corning Molykote 111 Silicone Lubricant - NSF
+
 
  * Grinder
    * Weber EG-1 Onyx 80mm Burr
