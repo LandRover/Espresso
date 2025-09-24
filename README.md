@@ -5,7 +5,7 @@
  
  * Grinders
    * Weber EG-1 Onyx 80mm Burr
-   * Fiorenzato F64 Pro
+   * Fiorenzato F64 Evo Pro
   
  * Water
    * BWT Bestmax S Premium
