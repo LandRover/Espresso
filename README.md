@@ -1,6 +1,7 @@
 # Setup
 
  * Machine
+   * ECM Synchronika II (Heritage)
    * Rocket Appartamento
  
  * Grinders
