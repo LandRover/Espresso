@@ -11,3 +11,6 @@
  * Water
    * BWT Bestmax S Premium
    * VIQUA S2Q-PA
+
+ * Other
+   * Metal Espresso Coffee Tamper BOSeTAMPER 58.5mm PRO
