@@ -3,6 +3,7 @@
 * TLV
   * [Nahat](https://www.nahatcoffee.com)
   * [Coffee Organization](https://coffeeorg.co)
+  * [Coffee 51](https://www.coffeeshop51.com)
   * [Mae](https://www.maecafe.com)
   * [Cafelix](https://cafelix.co.il)
   * [Origem](https://origem.co.il)
