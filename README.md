@@ -17,7 +17,7 @@
  * Grinders
    * Weber EG-1 Mk.3 Onyx (80mm flat burr)
      * Feeder
-       * Slow Feeder Metal (Black)
+       * CremaLoop Slow Feeder Metal (Black)
    * Fiorenzato F64 Evo Pro (64mm flat burr)
 
 
