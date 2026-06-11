@@ -9,6 +9,10 @@
         * Pressensor E61 (M6 thread) & splitter
 
 
+* Shower Screen
+   * 5x IMS E&B LAB Nano Shower Screen (E61200RNT)
+
+
  * Basket
    * 5x IMS E&B LAB Nano Filter 16/18 gr - H24 (B702TFH24NT)
    * 5x IMS E&B LAB Nano Filter 18/20 gr - H26 (B702TFH26NT)
