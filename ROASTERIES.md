@@ -3,7 +3,7 @@
 * TLV
   * [Nahat](https://www.nahatcoffee.com)
   * [Coffee Organization](https://coffeeorg.co)
-  * [Loki]([https://www.instagram.com/loki.roasters/])
+  * [Loki](https://www.instagram.com/loki.roasters/)
   * [Coffee 51](https://www.coffeeshop51.com)
   * [Mae](https://www.maecafe.com)
   * [Cafelix](https://cafelix.co.il)
