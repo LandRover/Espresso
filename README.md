@@ -9,7 +9,13 @@
         * Pressensor E61 (M6 thread) & splitter
 
 
+ * Basket
+   * 5x IMS E&B LAB Nano Filter 16/18 gr - H24 (B702TFH24NT)
+   * 5x IMS E&B LAB Nano Filter 18/20 gr - H26 (B702TFH26NT)
+
+
  * Scale
+   * 1x BOOKOO Themis Mini Coffee Scale
    * 1x BOOKOO Themis Ultra Coffee Scale
    * 2x Acaia Lunar USBC
 
@@ -29,6 +35,7 @@
  * Tamper
    * Metal Espresso Coffee Tamper BOSeTAMPER 58.5mm PRO
    * Pullman BigStep 58.5mm
+   * BOOKOO PUCKGO 58.5mm
 
   
  * WDT
