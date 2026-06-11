@@ -36,6 +36,7 @@
    * Metal Espresso Coffee Tamper BOSeTAMPER 58.5mm PRO
    * Pullman BigStep 58.5mm
    * BOOKOO PUCKGO 58.5mm
+   * CHRISKING TAMPER 420gr (Matt Black) 58mm
 
   
  * WDT
